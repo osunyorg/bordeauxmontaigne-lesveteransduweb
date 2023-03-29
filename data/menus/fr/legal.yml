@@ -17,4 +17,8 @@ items:
   target: "/plan-du-site/"
   kind: page
   children: []
+- title: "© 2023 Les vétérans du web."
+  target: ''
+  kind: blank
+  children: []
 
