@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Politique de confidentialité
-  target: "/politique-de-confidentialite/"
+  target: "/conditions-generales/"
   kind: page
   children: []
 - title: Accessibilité
