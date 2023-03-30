@@ -13,12 +13,12 @@ items:
   target: "/accessibilite/"
   kind: page
   children: []
-- title: Plan du site
-  target: "/plan-du-site/"
-  kind: page
-  children: []
 - title: "© 2023 Les vétérans du web."
   target: ''
   kind: blank
+  children: []
+- title: Plan du site
+  target: "/plan-du-site/"
+  kind: page
   children: []
 
