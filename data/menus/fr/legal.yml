@@ -21,4 +21,8 @@ items:
   target: ''
   kind: blank
   children: []
+- title: Espace presse
+  target: "/presse/"
+  kind: page
+  children: []
 
