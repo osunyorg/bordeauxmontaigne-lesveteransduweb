@@ -5,12 +5,8 @@ items:
   target: "/mentions-legales/"
   kind: page
   children: []
-- title: Politique de confidentialité
+- title: Conditions générales d'utilisation
   target: "/conditions-generales/"
-  kind: page
-  children: []
-- title: Accessibilité
-  target: "/accessibilite/"
   kind: page
   children: []
 - title: Plan du site
