@@ -9,3 +9,5 @@ params:
   posts:
     index:
       layout: grid
+  debug:
+     productionUrl: "https://www.lesveteransduweb.org"
