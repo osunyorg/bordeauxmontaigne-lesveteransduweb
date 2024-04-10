@@ -5,10 +5,6 @@ items:
   target: "/mentions-legales/"
   kind: page
   children: []
-- title: Conditions générales d'utilisation
-  target: "/conditions-generales/"
-  kind: page
-  children: []
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
