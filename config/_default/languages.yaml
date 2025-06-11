@@ -10,13 +10,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /episodes/:year-:month-:day-:slug/
-    posts_categories: /episodes/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/episodes/
   taxonomies:
     administrator: administrators
     author: authors
