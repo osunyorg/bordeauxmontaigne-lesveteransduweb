@@ -2,29 +2,37 @@
 title: Footer / Informations légales
 items:
 - title: Mentions légales
+  slug: mentions-legales
   target: "/mentions-legales/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Plan du site
+  slug: plan-du-site
   target: "/plan-du-site/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
 - title: Espace presse
+  slug: espace-presse
   target: "/presse/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/presse"
   file: content/fr/pages/presse/_index.html
 - title: "© 2023 Les vétérans du web."
+  slug: 2023-les-veterans-du-web
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 
