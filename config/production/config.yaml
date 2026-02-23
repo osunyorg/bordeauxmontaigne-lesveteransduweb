@@ -7,6 +7,11 @@ osuny:
   website:
     id: 19f3b466-0ac8-4076-85f3-e4caa09d5595
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "lesveteransduweb.org"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
