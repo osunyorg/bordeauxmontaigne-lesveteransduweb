@@ -13,28 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/actualites/"
-to = "/episodes/"
-
-[[redirects]]
-from = "/episodes/2023-04-11-muriel-les-veterans-du-web/"
-to = "/episodes/2023-03-30-muriel-les-veterans-du-web/"
-
-[[redirects]]
-from = "/politique-de-confidentialite/"
-to = "/conditions-generales/"
-
-[[redirects]]
-from = "/episodes/2023-04-01-jean-marc-les-veterans-du-web/"
-to = "/episodes/2023-04-02-jean-marc-les-veterans-du-web/"
-
-[[redirects]]
-from = "/episodes/2023-04-14-marie-noel-les-veterans-du-web/"
-to = "/episodes/2023-04-01-marie-noel-les-veterans-du-web/"
-
-[[redirects]]
-from = "/episodes/2023-04-11-jean-marc-les-veterans-du-web/"
-to = "/episodes/2023-04-02-jean-marc-les-veterans-du-web/"
-
